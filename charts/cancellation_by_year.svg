@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<rect width="100%" height="100%" fill="#fffaf1"/>
+<text x="55" y="58" font-family="Arial" font-size="30" font-weight="700" fill="#251914">Cancellation rate increased in 2017</text>
+<text x="55" y="92" font-family="Arial" font-size="17" fill="#755f55">Annual Resort Hotel cancellation rate</text>
+<text x="250" y="160.0" text-anchor="end" font-family="Arial" font-size="18" fill="#35241d">2015</text>
+<rect x="270" y="138.0" width="552.5" height="32" rx="7" fill="#cc6b3d"/>
+<text x="834.5" y="161.0" font-family="Arial" font-size="17" font-weight="700" fill="#35241d">25.7%</text>
+<text x="270" y="191.0" font-family="Arial" font-size="13" fill="#8c7469">n=8,314</text>
+<text x="250" y="296.66666666666663" text-anchor="end" font-family="Arial" font-size="18" fill="#35241d">2016</text>
+<rect x="270" y="274.66666666666663" width="570.5" height="32" rx="7" fill="#cc6b3d"/>
+<text x="852.5" y="297.66666666666663" font-family="Arial" font-size="17" font-weight="700" fill="#35241d">26.6%</text>
+<text x="270" y="327.66666666666663" font-family="Arial" font-size="13" fill="#8c7469">n=18,567</text>
+<text x="250" y="433.3333333333333" text-anchor="end" font-family="Arial" font-size="18" fill="#35241d">2017</text>
+<rect x="270" y="411.3333333333333" width="660.9" height="32" rx="7" fill="#cc6b3d"/>
+<text x="942.9" y="434.3333333333333" font-family="Arial" font-size="17" font-weight="700" fill="#35241d">30.8%</text>
+<text x="270" y="464.3333333333333" font-family="Arial" font-size="13" fill="#8c7469">n=13,179</text>
+<text x="55" y="592" font-family="Arial" font-size="13" fill="#8c7469">Source: Hotel Booking Demand dataset. Scope: Resort Hotel only.</text>
+</svg>

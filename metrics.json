@@ -1,0 +1,139 @@
+{
+  "bookings": 40060,
+  "by_customer_type": {
+    "Contract": {
+      "bookings": 1776,
+      "canceled": 157,
+      "cancellation_rate": 0.0884009009009009,
+      "not_canceled": 1619
+    },
+    "Group": {
+      "bookings": 284,
+      "canceled": 30,
+      "cancellation_rate": 0.1056338028169014,
+      "not_canceled": 254
+    },
+    "Transient": {
+      "bookings": 30209,
+      "canceled": 9416,
+      "cancellation_rate": 0.3116951901751134,
+      "not_canceled": 20793
+    },
+    "Transient-Party": {
+      "bookings": 7791,
+      "canceled": 1519,
+      "cancellation_rate": 0.1949685534591195,
+      "not_canceled": 6272
+    }
+  },
+  "by_distribution_channel": {
+    "Corporate": {
+      "bookings": 3269,
+      "canceled": 688,
+      "cancellation_rate": 0.21046191495870298,
+      "not_canceled": 2581
+    },
+    "Direct": {
+      "bookings": 7865,
+      "canceled": 1325,
+      "cancellation_rate": 0.168467895740623,
+      "not_canceled": 6540
+    },
+    "TA/TO": {
+      "bookings": 28925,
+      "canceled": 9109,
+      "cancellation_rate": 0.3149178910976664,
+      "not_canceled": 19816
+    },
+    "Undefined": {
+      "bookings": 1,
+      "canceled": 0,
+      "cancellation_rate": 0.0,
+      "not_canceled": 1
+    }
+  },
+  "by_lead_time": {
+    "0-7": {
+      "bookings": 8938,
+      "canceled": 583,
+      "cancellation_rate": 0.06522712016110986,
+      "not_canceled": 8355
+    },
+    "181-365": {
+      "bookings": 7300,
+      "canceled": 3013,
+      "cancellation_rate": 0.4127397260273973,
+      "not_canceled": 4287
+    },
+    "31-90": {
+      "bookings": 8756,
+      "canceled": 2841,
+      "cancellation_rate": 0.32446322521699406,
+      "not_canceled": 5915
+    },
+    "8-30": {
+      "bookings": 6406,
+      "canceled": 1403,
+      "cancellation_rate": 0.219013424914143,
+      "not_canceled": 5003
+    },
+    "91-180": {
+      "bookings": 8216,
+      "canceled": 3075,
+      "cancellation_rate": 0.374269717624148,
+      "not_canceled": 5141
+    },
+    ">365": {
+      "bookings": 444,
+      "canceled": 207,
+      "cancellation_rate": 0.46621621621621623,
+      "not_canceled": 237
+    }
+  },
+  "by_year": {
+    "2015": {
+      "bookings": 8314,
+      "canceled": 2138,
+      "cancellation_rate": 0.2571566033197017,
+      "not_canceled": 6176
+    },
+    "2016": {
+      "bookings": 18567,
+      "canceled": 4930,
+      "cancellation_rate": 0.2655248559271826,
+      "not_canceled": 13637
+    },
+    "2017": {
+      "bookings": 13179,
+      "canceled": 4054,
+      "cancellation_rate": 0.30761059260945445,
+      "not_canceled": 9125
+    }
+  },
+  "canceled": 11122,
+  "cancellation_rate": 0.27763354967548676,
+  "not_canceled": 28938,
+  "repeated_guest_by_distribution_channel": {
+    "Corporate": {
+      "bookings": 3269,
+      "repeated_guest_bookings": 565,
+      "repeated_guest_rate": 0.1728357295809116
+    },
+    "Direct": {
+      "bookings": 7865,
+      "repeated_guest_bookings": 574,
+      "repeated_guest_rate": 0.0729815638906548
+    },
+    "TA/TO": {
+      "bookings": 28925,
+      "repeated_guest_bookings": 639,
+      "repeated_guest_rate": 0.02209161624891962
+    },
+    "Undefined": {
+      "bookings": 1,
+      "repeated_guest_bookings": 0,
+      "repeated_guest_rate": 0.0
+    }
+  },
+  "scope": "Resort Hotel only"
+}
